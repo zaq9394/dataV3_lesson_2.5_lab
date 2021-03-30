@@ -19,4 +19,8 @@ The database is structured as follows:
 6. Since how many days has the company been operating (check DATEDIFF() function)?
 7. Show rental info with additional columns month and weekday. Get 20 results.
 8. Add an additional column day_type with values 'weekend' and 'workday' depending on the rental day of the week.
-9. How many rentals were in the last month of activity?
+9. Get release years.
+10. Get all films with ARMAGEDDON in the title.
+11. Get all films which title ends with APOLLO.
+12. Get 10 the longest films.
+13. How many films include **Behind the Scenes** content?
